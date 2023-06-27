@@ -1,0 +1,20 @@
+{
+  "name": "ujcgttr",
+  "version": "1.0.0",
+  "description": "These are the images of my portfolio..",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AryanGuptaJi/Portfolio1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AryanGuptaJi/Portfolio1/issues"
+  },
+  "homepage": "https://github.com/AryanGuptaJi/Portfolio1#readme"
+}
