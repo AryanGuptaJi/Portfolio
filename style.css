@@ -315,20 +315,21 @@ section .title::after{
     top: 0;
     background: #1470eda1;
 }
-.skills-content .right .html::before{
-    width: 90%;
-}
-.skills-content .right .css::before{
+
+.skills-content .right .js::before{
     width: 85%;
 }
-.skills-content .right .js::before{
+.skills-content .right .cpp::before{
     width: 80%;
 }
-.skills-content .right .php::before{
-    width: 70%;
+.skills-content .right .java::before{
+    width: 75%;
+}
+.skills-content .right .mern::before{
+    width: 80%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 80%;
 }
 
 /* Project section styling */
@@ -362,8 +363,8 @@ section .title::after{
     margin: 10px 0 7px 0;
 }
 .project .carousel .card img{
-    height: 150px;
-    width: 150px;
+    height: 160px;
+    width: 200px;
     object-fit: cover;
     border-radius: 50%;
     border: 5px solid #1470eda1;
@@ -501,6 +502,7 @@ footer{
     padding: 15px 23px;
     color: #fff;
     text-align: center;
+    margin-bottom: 0;
 }
 footer span a{
     color: #1470eda1;
