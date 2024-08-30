@@ -317,19 +317,19 @@ section .title::after{
 }
 
 .skills-content .right .js::before{
-    width: 85%;
-}
-.skills-content .right .cpp::before{
-    width: 80%;
-}
-.skills-content .right .java::before{
     width: 75%;
 }
+.skills-content .right .cpp::before{
+    width: 75%;
+}
+.skills-content .right .java::before{
+    width: 70%;
+}
 .skills-content .right .mern::before{
-    width: 80%;
+    width: 70%;
 }
 .skills-content .right .mysql::before{
-    width: 80%;
+    width: 70%;
 }
 
 /* Project section styling */
